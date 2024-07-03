@@ -17,19 +17,19 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61556797413007","1134802035","61557533762548"
+    "100073129302064"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Asmit",
-  "AGE": "19",
+  "OWNER": "Aljur Pogoy",
+  "AGE": "21",
   "GENDER": "MALE",
-  "nickNameBot": "",
-  "FACEBOOK": "",
-  "prefix": ".",
+  "nickNameBot": "Gilgamesh UltraBotV2 [ + ]",
+  "FACEBOOK": "https://www.facebook.com/profile.php?id=100073129302064",
+  "prefix": "+",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
